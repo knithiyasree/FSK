@@ -2,6 +2,7 @@
 # Aim
 Write a Python program for the modulation and demodulation of FSK.
 # Tools required
+Google colab
 # Program
 ```
 import numpy as np
@@ -52,7 +53,8 @@ plt.tight_layout()
 plt.show()
 ```
 # Output Waveform
-<img width="1190" height="790" alt="image" src="https://github.com/user-attachments/assets/8c1da497-56a7-4c07-8f21-574a3245fd89" />
+<img width="1201" height="1012" alt="image" src="https://github.com/user-attachments/assets/c20da7d2-7a21-450c-9824-222ee7ab227e" />
+
 
 # Results
 Thus FSK has been executed successfully using python.
